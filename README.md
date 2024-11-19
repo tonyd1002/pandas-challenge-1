@@ -1,1 +1,1 @@
-# pandas-challenge-1
+This repository contains a Python project focused on leveraging the pandas library for data analysis and transformation. The project demonstrates data exploration, transformation, and summarization techniques while addressing real-world challenges in handling datasets.
